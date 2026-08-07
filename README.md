@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚡ Baiano
+# 🖥️ whoami
 
-### Software Engineer • Backend Developer • Problem Solver
+### Full Stack Backend Developer • Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;Turning+Ideas+Into+Software;Clean+Code+%7C+Performance+%7C+Architecture;Always+Learning+Something+New" />
 
@@ -22,7 +22,7 @@ My focus goes beyond writing code — I enjoy designing architectures, optimizin
 
 ```typescript
 class Developer {
-  readonly name = "Baiano";
+  readonly name = "whoami";
 
   skills = [
     "Backend Development",
