@@ -2,44 +2,44 @@
 
 # whoamicode
 
-### Full Stack Developer • Backend Focused
+### Desenvolvedor Full Stack • Foco em Backend
 
-Building scalable backends, APIs, automations and modern web applications.
+Construindo sistemas, APIs, automações e aplicações web modernas com foco em performance, organização e escalabilidade.
 
 </div>
 
 ---
 
-## About Me
+## Sobre mim
 
-I'm a **Full Stack Developer focused on Backend Engineering**, building systems that connect solid backend architecture with functional and modern interfaces.
+Sou **Desenvolvedor Full Stack com foco em Backend**, atuando no desenvolvimento de sistemas que conectam uma arquitetura sólida no servidor com interfaces modernas e funcionais.
 
-My main interests are **backend development, REST APIs, databases, integrations, automation and cloud infrastructure**.
+Meu principal foco está em **desenvolvimento backend, APIs REST, bancos de dados, integrações, automações e infraestrutura de aplicações**.
 
-I also develop complete web applications, internal dashboards, management systems and Discord-based solutions.
+Também desenvolvo aplicações web completas, dashboards administrativos, sistemas de gerenciamento, integrações com serviços externos e soluções para Discord.
 
 ```ts
 const whoamicode = {
-  role: "Full Stack Developer",
-  focus: "Backend Engineering",
-  location: "Brazil",
+  cargo: "Desenvolvedor Full Stack",
+  especialidade: "Backend",
+  localizacao: "Brasil",
 
-  interests: [
-    "Backend Architecture",
-    "REST APIs",
-    "Databases",
-    "Automation",
-    "Cloud Infrastructure",
-    "Web Applications"
+  interesses: [
+    "Arquitetura Backend",
+    "APIs REST",
+    "Bancos de Dados",
+    "Automações",
+    "Infraestrutura",
+    "Aplicações Web"
   ],
 
-  currentlyBuilding: "SET7 Network"
+  projetoAtual: "SET7 Network"
 };
 ```
 
 ---
 
-## Tech Stack
+## Tecnologias
 
 ### Backend
 
@@ -53,13 +53,13 @@ const whoamicode = {
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
 
-### Databases
+### Banco de Dados
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
-### DevOps & Tools
+### DevOps & Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,npm" />
@@ -67,99 +67,99 @@ const whoamicode = {
 
 ---
 
-## Backend Engineering
+## Engenharia Backend
 
-My primary focus is developing the infrastructure behind applications.
+Meu principal foco é desenvolver a infraestrutura e a lógica por trás das aplicações.
 
-I work with:
+Trabalho com:
 
-* REST API development
-* Authentication & authorization
-* Database modeling
-* Backend architecture
-* Third-party integrations
-* Automation systems
-* Real-time applications
-* WebSocket communication
-* Discord integrations
-* Administrative dashboards
-* Application deployment
-* Linux environments
+* Desenvolvimento de APIs REST
+* Autenticação e autorização
+* Modelagem de banco de dados
+* Arquitetura Backend
+* Integrações com APIs externas
+* Sistemas de automação
+* Aplicações em tempo real
+* Comunicação via WebSocket
+* Integrações com Discord
+* Dashboards administrativos
+* Deploy de aplicações
+* Ambientes Linux
 
 ---
 
-## What I Build
+## O que eu desenvolvo
 
 ```text
-Backend Systems
-├── REST APIs
-├── Authentication
-├── Database Architecture
-├── Business Logic
-├── Integrations
-└── Automation
+Backend
+├── APIs REST
+├── Autenticação
+├── Arquitetura de Banco de Dados
+├── Regras de Negócio
+├── Integrações
+└── Automações
 
-Web Applications
-├── Frontend Interfaces
-├── Administrative Dashboards
-├── Management Platforms
-└── Real-Time Systems
+Aplicações Web
+├── Interfaces Frontend
+├── Dashboards Administrativos
+├── Sistemas de Gerenciamento
+└── Sistemas em Tempo Real
 
-Infrastructure
+Infraestrutura
 ├── Linux
 ├── Docker
-├── Cloud Deployment
-└── Application Monitoring
+├── Cloud
+└── Monitoramento de Aplicações
 ```
 
 ---
 
-## Featured Projects
+## Projetos em destaque
 
 ### SET7 Network
 
-Technology ecosystem focused on creating applications, automation and digital infrastructure.
+Ecossistema tecnológico voltado para desenvolvimento de aplicações, sistemas de gerenciamento, automações e infraestrutura digital.
 
-**Development areas:**
+**Áreas de desenvolvimento:**
 
-`Backend` • `Web Applications` • `Discord` • `Automation` • `APIs` • `Infrastructure`
+`Backend` • `Aplicações Web` • `Discord` • `Automações` • `APIs` • `Infraestrutura`
 
 ---
 
 ### SET7 Screen
 
-Real-time screen-sharing platform designed for secure browser-based communication.
+Plataforma de compartilhamento de tela em tempo real desenvolvida para comunicação segura diretamente pelo navegador.
 
-**Technologies & concepts:**
+**Tecnologias e conceitos:**
 
-`WebRTC` • `WebSocket` • `Node.js` • `Real-Time Communication` • `Frontend`
-
----
-
-### Discord Management Systems
-
-Backend-driven applications for community and organization management.
-
-Features include:
-
-`Authentication` • `Permissions` • `Automations` • `Logging` • `Database` • `Dashboards` • `API Integrations`
+`WebRTC` • `WebSocket` • `Node.js` • `Comunicação em Tempo Real` • `Frontend`
 
 ---
 
-## Architecture Interests
+### Sistemas de Gerenciamento para Discord
+
+Aplicações orientadas a backend para gerenciamento de comunidades, organizações e operações dentro do Discord.
+
+Recursos desenvolvidos:
+
+`Autenticação` • `Permissões` • `Automações` • `Logs` • `Banco de Dados` • `Dashboards` • `Integrações`
+
+---
+
+## Arquitetura
 
 ```mermaid
 flowchart LR
-    Client[Client] --> API[REST API]
-    API --> AUTH[Authentication]
-    API --> SERVICES[Services]
-    SERVICES --> DB[(Database)]
+    CLIENT[Cliente] --> API[API REST]
+    API --> AUTH[Autenticação]
+    API --> SERVICES[Serviços]
+    SERVICES --> DB[(Banco de Dados)]
     SERVICES --> CACHE[(Cache)]
     SERVICES --> WS[WebSocket]
-    SERVICES --> EXT[External APIs]
+    SERVICES --> EXT[APIs Externas]
 ```
 
-I enjoy designing systems where each layer has a clear responsibility and can evolve independently.
+Tenho interesse especial em desenvolver sistemas onde cada camada possui responsabilidades bem definidas, facilitando manutenção, evolução e escalabilidade.
 
 ---
 
@@ -175,23 +175,23 @@ I enjoy designing systems where each layer has a clear responsibility and can ev
 
 ---
 
-## Current Focus
+## Foco atual
 
 ```text
-→ Backend Engineering
+→ Engenharia Backend
 → Node.js & TypeScript
-→ API Architecture
-→ Database Design
-→ Real-Time Applications
+→ Arquitetura de APIs
+→ Banco de Dados
+→ Aplicações em Tempo Real
 → Cloud & Linux
-→ Full Stack Development
+→ Desenvolvimento Full Stack
 ```
 
-My goal is to continuously improve my ability to design and build **reliable, scalable and maintainable software**.
+Meu objetivo é evoluir continuamente no desenvolvimento de **software confiável, escalável, organizado e de fácil manutenção**.
 
 ---
 
-## Connect
+## Contato
 
 <div align="center">
 
@@ -207,10 +207,10 @@ My goal is to continuously improve my ability to design and build **reliable, sc
 
 ### `whoami`
 
-**Full Stack Developer • Backend Engineering**
+**Desenvolvedor Full Stack • Backend**
 
-Building systems. Designing architecture. Shipping products.
+Construindo sistemas. Projetando arquiteturas. Transformando ideias em software.
 
-<sub>SET7 Network • Developed by whoamicode</sub>
+<sub>SET7 Network • Desenvolvido por whoamicode</sub>
 
 </div>
