@@ -197,7 +197,7 @@ Meu objetivo é evoluir continuamente no desenvolvimento de **software confiáve
 
 [![GitHub](https://img.shields.io/badge/GitHub-whoamicode-181717?style=for-the-badge\&logo=github)](https://github.com/whoamicode)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@tauaan.7-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/tauaan.7)
+[![Instagram][(https://www.instagram.com/tauancode/)
 
 </div>
 
