@@ -1,104 +1,203 @@
 <div align="center">
 
-# 🖥️ whoami
+# whoamicode
 
-### Full Stack Backend Developer • Problem Solver
+### Full Stack Developer • Backend Focused
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;Turning+Ideas+Into+Software;Clean+Code+%7C+Performance+%7C+Architecture;Always+Learning+Something+New" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile+Views&color=0e75b6&style=flat" />
+Building scalable backends, APIs, automations and modern web applications.
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a software developer passionate about creating efficient, scalable and maintainable solutions.
+I'm a **Full Stack Developer focused on Backend Engineering**, building systems that connect solid backend architecture with functional and modern interfaces.
 
-My focus goes beyond writing code — I enjoy designing architectures, optimizing performance, and building products that deliver real value.
+My main interests are **backend development, REST APIs, databases, integrations, automation and cloud infrastructure**.
 
-```typescript
-class Developer {
-  readonly name = "whoami";
+I also develop complete web applications, internal dashboards, management systems and Discord-based solutions.
 
-  skills = [
-    "Backend Development",
-    "System Design",
+```ts
+const whoamicode = {
+  role: "Full Stack Developer",
+  focus: "Backend Engineering",
+  location: "Brazil",
+
+  interests: [
+    "Backend Architecture",
+    "REST APIs",
+    "Databases",
     "Automation",
+    "Cloud Infrastructure",
     "Web Applications"
-  ];
+  ],
 
-  philosophy() {
-    return "Build with quality. Scale with confidence.";
-  }
-}
+  currentlyBuilding: "SET7 Network"
+};
 ```
 
 ---
 
-## 🚀 Core Technologies
+## Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,express" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,npm" />
+</p>
+
+---
+
+## Backend Engineering
+
+My primary focus is developing the infrastructure behind applications.
+
+I work with:
+
+* REST API development
+* Authentication & authorization
+* Database modeling
+* Backend architecture
+* Third-party integrations
+* Automation systems
+* Real-time applications
+* WebSocket communication
+* Discord integrations
+* Administrative dashboards
+* Application deployment
+* Linux environments
+
+---
+
+## What I Build
+
+```text
+Backend Systems
+├── REST APIs
+├── Authentication
+├── Database Architecture
+├── Business Logic
+├── Integrations
+└── Automation
+
+Web Applications
+├── Frontend Interfaces
+├── Administrative Dashboards
+├── Management Platforms
+└── Real-Time Systems
+
+Infrastructure
+├── Linux
+├── Docker
+├── Cloud Deployment
+└── Application Monitoring
+```
+
+---
+
+## Featured Projects
+
+### SET7 Network
+
+Technology ecosystem focused on creating applications, automation and digital infrastructure.
+
+**Development areas:**
+
+`Backend` • `Web Applications` • `Discord` • `Automation` • `APIs` • `Infrastructure`
+
+---
+
+### SET7 Screen
+
+Real-time screen-sharing platform designed for secure browser-based communication.
+
+**Technologies & concepts:**
+
+`WebRTC` • `WebSocket` • `Node.js` • `Real-Time Communication` • `Frontend`
+
+---
+
+### Discord Management Systems
+
+Backend-driven applications for community and organization management.
+
+Features include:
+
+`Authentication` • `Permissions` • `Automations` • `Logging` • `Database` • `Dashboards` • `API Integrations`
+
+---
+
+## Architecture Interests
+
+```mermaid
+flowchart LR
+    Client[Client] --> API[REST API]
+    API --> AUTH[Authentication]
+    API --> SERVICES[Services]
+    SERVICES --> DB[(Database)]
+    SERVICES --> CACHE[(Cache)]
+    SERVICES --> WS[WebSocket]
+    SERVICES --> EXT[External APIs]
+```
+
+I enjoy designing systems where each layer has a clear responsibility and can evolve independently.
+
+---
+
+## GitHub
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs,mongodb,mysql,postgres,git,github,docker,vscode&perline=6" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=whoamicode&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoamicode&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## 📊 GitHub Performance
+## Current Focus
+
+```text
+→ Backend Engineering
+→ Node.js & TypeScript
+→ API Architecture
+→ Database Design
+→ Real-Time Applications
+→ Cloud & Linux
+→ Full Stack Development
+```
+
+My goal is to continuously improve my ability to design and build **reliable, scalable and maintainable software**.
+
+---
+
+## Connect
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&count_private=true&theme=transparent" />
+[![GitHub](https://img.shields.io/badge/GitHub-whoamicode-181717?style=for-the-badge\&logo=github)](https://github.com/whoamicode)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## ⚙️ Engineering Principles
-
-```bash
-✓ Clean Architecture
-✓ SOLID Principles
-✓ Performance Optimization
-✓ Scalable Systems
-✓ Security First
-✓ Continuous Learning
-✓ Maintainable Code
-✓ User-Focused Solutions
-```
-
----
-
-## 📈 Current Mission
-
-```yaml
-goal:
-  become: Elite Software Engineer
-
-roadmap:
-  - Advanced Backend
-  - Cloud Infrastructure
-  - System Architecture
-  - Artificial Intelligence
-  - High Performance Applications
-```
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-<a href="https://github.com/Baiannorp">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-@tauaan.7-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/tauaan.7)
 
 </div>
 
@@ -106,6 +205,12 @@ roadmap:
 
 <div align="center">
 
-### "Great software is built twice: first in the mind, then in code."
+### `whoami`
+
+**Full Stack Developer • Backend Engineering**
+
+Building systems. Designing architecture. Shipping products.
+
+<sub>SET7 Network • Developed by whoamicode</sub>
 
 </div>
